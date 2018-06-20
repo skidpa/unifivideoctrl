@@ -5,6 +5,12 @@ The database schema is not available since i haven't decided on all parts of it 
 ## What is this?
 The idea is to have a server that can handle request's from clients to arm/disarm unifi surveillance cameras.
 
+## Dependencies
+The following is needed to run the code.
+ * requests
+ * Texttable
+ * MySQL Connector
+
 ## Status
 The following is the task list I'm currently working towards although things are being added continuously
 
