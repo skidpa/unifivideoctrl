@@ -1,5 +1,6 @@
 # UniFiVideoCtrl
 this project is still in it's early stages and currently not really usable since it requires cli interaction also the client is not yet available.
+The database schema is not available since i haven't decided on all parts of it yet. Think I might scrub some of it.
 
 ## What is this?
 The idea is to have a server that can handle request's from clients to arm/disarm unifi surveillance cameras.
